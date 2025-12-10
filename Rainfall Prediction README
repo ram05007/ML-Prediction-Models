@@ -1,0 +1,23 @@
+# Rainfall Prediction using Machine Learning
+
+This project develops a machine learning model to predict rainfall using historical weather data such as temperature, humidity, wind speed, pressure, and other meteorological features. The goal is to build an accurate and reliable prediction system that can assist in weather forecasting and agricultural planning.
+
+## Project Overview
+- Collected and preprocessed weather data
+- Performed exploratory data analysis (EDA) to understand feature patterns
+- Trained classification/regression models for rainfall prediction
+- Evaluated model performance using metrics such as accuracy, F1-score, precision and recall
+- Selected the best-performing model for deployment or further experimentation
+
+## Technologies Used
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib / Seaborn
+- Google Colab
+
+## Model Output
+The notebook produces:
+- Visualizations of weather patterns  
+- Feature importance insights  
+- Rainfall predictions (YES/NO)
