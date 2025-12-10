@@ -1,0 +1,23 @@
+# House Price Prediction using Machine Learning
+
+This project builds a machine learning model to predict house prices based on key features such as area, number of rooms, location, and other property attributes. The goal is to provide an accurate and scalable regression model that can be used for real-estate price estimation.
+
+## Project Overview
+- Performed data cleaning and preprocessing
+- Explored and visualized feature relationships
+- Trained multiple regression models
+- Evaluated model performance using standard metrics (RMSE, MAE, R² score)
+- Selected the best-performing model for prediction
+
+## Technologies Used
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib / Seaborn
+- Google Colab
+
+## Model Output
+The notebook produces:
+- Visualizations  
+- Feature analysis  
+- Predicted house prices 
